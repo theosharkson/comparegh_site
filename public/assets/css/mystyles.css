@@ -1,0 +1,30 @@
+.category-list.make-grid .item-list{
+	/*border: 1px solid rgba(0, 0, 0, 0.125);*/
+	/*margin: 5px;*/
+	border-radius: 4px;
+	text-align: center;
+}
+
+
+.page-item.active .page-link{
+	background-color: #179f84;
+    border-color: #148a71;
+}
+
+.add-shadow{
+    -webkit-box-shadow: 0 2px 5px -1px rgba(0,0,0,.2);
+    box-shadow: 0 2px 5px -1px rgba(0,0,0,.2);
+}
+
+.add-image a img{
+	width: unset !important;
+}
+
+.add-image{
+	width: 100%;
+    text-align: center;
+}
+
+.seller-profile-img{
+	width: 100%;
+}
